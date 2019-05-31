@@ -2,6 +2,7 @@
 title: 如何使用Hexo搭建博客网站(转)
 date: 2019-05-29 17:24:08
 tags: Hexo
+categories: Hexo
 ---
 
 <p>原文连接: www.cnblogs.com/fengxiongZz/p/7707219.html</p>
